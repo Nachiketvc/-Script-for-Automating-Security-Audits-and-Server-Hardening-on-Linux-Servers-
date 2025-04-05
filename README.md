@@ -57,8 +57,7 @@ Before running the script, ensure the following:
 Services like sshd and iptables should be installed on the target system.
 
 ## 🛡️ 2. Security Updates
-Automatic security updates are not enabled by default.
-You may choose to configure them manually or use the provided automation option.
+Automatic security updates are not enabled by default. Just it will notify that updates are available.
 
 ## 📁 3. Log Monitoring
 Audit results and security logs are saved locally.
