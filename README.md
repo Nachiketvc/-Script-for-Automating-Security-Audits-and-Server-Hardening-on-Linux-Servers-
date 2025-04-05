@@ -31,12 +31,15 @@ Clone the repository and run the script with elevated privileges:
 ## Step 1: Clone the repository
 git clone https://github.com/Nachiketvc/-Script-for-Automating-Security-Audits-and-Server-Hardening-on-Linux-Servers-.git
 
+'''bash```
 ## Step 2: Navigate into the project directory
 cd security-audit-hardening-script
 
+```bash```
 ## Step 3: Make the script executable
 chmod +x security_audit_hardening.sh
 
+```bash```
 ## Step 4: Run the script with sudo
 sudo ./security_audit_hardening.sh
 
