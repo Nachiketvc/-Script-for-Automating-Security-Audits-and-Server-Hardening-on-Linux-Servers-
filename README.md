@@ -31,13 +31,13 @@ Clone the repository and run the script with elevated privileges:
 ## Step 1: Clone the repository
 git clone https://github.com/Nachiketvc/-Script-for-Automating-Security-Audits-and-Server-Hardening-on-Linux-Servers-.git
 
-# Step 2: Navigate into the project directory
+## Step 2: Navigate into the project directory
 cd security-audit-hardening-script
 
-# Step 3: Make the script executable
+## Step 3: Make the script executable
 chmod +x security_audit_hardening.sh
 
-# Step 4: Run the script with sudo
+## Step 4: Run the script with sudo
 sudo ./security_audit_hardening.sh
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
@@ -46,12 +46,12 @@ sudo ./security_audit_hardening.sh
 ## ⚙️ Prerequisites
 Before running the script, ensure the following:
 
-# 🔍 1. Service Audit Requirements
+## 🔍 1. Service Audit Requirements
 Services like sshd and iptables should be installed on the target system.
 
-# 🛡️ 2. Security Updates
+## 🛡️ 2. Security Updates
 Automatic security updates are not enabled by default.
 You may choose to configure them manually or use the provided automation option.
 
-# 📁 3. Log Monitoring
+## 📁 3. Log Monitoring
 Audit results and security logs are saved locally.
