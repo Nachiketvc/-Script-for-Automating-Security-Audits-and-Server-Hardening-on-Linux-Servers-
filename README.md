@@ -25,7 +25,7 @@ This Bash script automates the process of security auditing and hardening for Li
 
 Follow these steps to install and run the Security Audit and Hardening Script on your Linux server:
 
-```bash
+``
 # Step 1: Clone the repository
 git clone https://github.com/Nachiketvc/-Script-for-Automating-Security-Audits-and-Server-Hardening-on-Linux-Servers-.git
 
@@ -37,6 +37,21 @@ chmod +x security_audit_hardening.sh
 
 # Step 4: Run the script with sudo
 sudo ./security_audit_hardening.sh
+
+
+## Prerequisites and Instructions
+
+Before running the script, make sure you have the following prerequisites installed and configurations set up:
+
+### 1. **Service Audit Option**
+- Ensure that `sshd` and `iptables` are installed on your system for the service audit checks.
+
+### 2. **Security Updates and Patching**
+- Please note that automatic updates have **not** been enabled for security updates and patching in this script. You'll need to manage updates manually or configure them as per your requirements.
+
+### 3. **Log Monitoring**
+- The script will save a log file on your system that contains the audit details and security checks. This log file will help you review and take necessary actions based on the results.
+
 
 
 
