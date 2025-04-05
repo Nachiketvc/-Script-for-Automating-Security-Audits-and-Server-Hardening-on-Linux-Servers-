@@ -42,4 +42,3 @@ sudo ./security_audit_hardening.sh
 
 
 
-
