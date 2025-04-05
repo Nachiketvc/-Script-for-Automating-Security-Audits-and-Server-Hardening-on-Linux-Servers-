@@ -28,7 +28,7 @@ A **modular and reusable Bash script** to automate **security auditing and harde
 Clone the repository and run the script with elevated privileges:
 
 ```bash```
-# Step 1: Clone the repository
+## Step 1: Clone the repository
 git clone https://github.com/Nachiketvc/-Script-for-Automating-Security-Audits-and-Server-Hardening-on-Linux-Servers-.git
 
 # Step 2: Navigate into the project directory
