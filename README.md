@@ -28,4 +28,5 @@ This Bash script automates the process of security auditing and hardening for Li
 Clone this repository onto your Linux server:
 
 ```bash
+https://github.com/Nachiketvc/-Script-for-Automating-Security-Audits-and-Server-Hardening-on-Linux-Servers-.git
 
