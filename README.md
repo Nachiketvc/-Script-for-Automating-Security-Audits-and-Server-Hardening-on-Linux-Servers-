@@ -67,7 +67,7 @@ chmod +x security_audit_hardening.sh
 ## 📁 4. Reporting and Alerting
 • Here I have added root mail address. you can add your personal mail id too. 
 
-## 5. How to check mail.
+## How to check mail.
 
 • Login as a root user. (sudo su - )
 
@@ -75,9 +75,13 @@ chmod +x security_audit_hardening.sh
 
 • use command - mail (you will get mail if there is any warning)
 
-## 6. For Custom security checks.
+## 5. For Custom security checks.
 
 • For custom security checks, make sure to create the file in the same directory where your main script is located.
+
+## 6. For report
+
+• A file would get dowloaded in your system.
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
