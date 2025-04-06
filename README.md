@@ -18,15 +18,17 @@ A **modular and reusable Bash script** to automate **security auditing and harde
 - 🚫 **IPv6 Disabling** (if unnecessary)  
 - 🧷 **GRUB Bootloader Protection**  
 - ⚙️ **Custom Security Checks** (per org policies)  
-- 📬 **Optional Email Alerts & Notifications**  
+- 📬 **Email Alerts**  
 - ♻️ **Automated Security Updates Configuration**
 
-   **I have developed a Linux User Audit Script with an interactive, menu-based flow that enables users to select different audit tasks to run based on their input. The script is split into two main audit sections:** 
-   **Human User & Group Audits (which checks for normal users, groups, root privileges, and password statuses) and User-Centric File Permission Audits (which checks for world-writable files, SSH directory 
+
+   **I have developed a Linux User Audit Script with an interactive, menu-based flow that enables users to select different audit tasks to run based on their input. The script is split into two main audit 
+   sections:** 
+   **Normal User (which checks for normal users, groups, root privileges, and password statuses) and User-Centric File Permission Audits (which checks for world-writable files, SSH directory 
    permissions, and SUID/SGID files).**
 
-  **The script uses a switch-case structure to execute tasks based on the user's choice, providing a clear, organized method for running specific audits or all checks at once. The user-friendly interface ensures 
-  ease of use and can be extended to add more functionality in the future.**
+   **The script uses a switch-case structure to execute tasks based on the user's choice, providing a clear, organized method for running specific audits or all checks at once. The user-friendly interface ensures 
+   ease of use and can be extended to add more functionality in the future.**
 
 ---
 
@@ -36,6 +38,7 @@ Clone the repository and run the script with elevated privileges:
 
 
 ## Step 1: Clone the repository
+```bash```
 git clone https://github.com/Nachiketvc/-Script-for-Automating-Security-Audits-and-Server-Hardening-on-Linux-Servers-.git
 
 ## Step 2: Navigate into the project directory
