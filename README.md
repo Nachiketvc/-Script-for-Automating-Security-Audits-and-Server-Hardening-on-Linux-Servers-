@@ -53,17 +53,18 @@ sudo ./security_audit_hardening.sh
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-## ⚙️ Prerequisites
-Before running the script, ensure the following:
+## ⚙️ Prerequisites 
+• Before running the script, ensure the following:
 
 ## 🔍 1. Service Audit Requirements
-Services like sshd and iptables should be installed on the target system.
+• Services like sshd and iptables should be installed on the target system.
 
 ## 🛡️ 2. Security Updates
-Automatic security updates are not enabled by default. Just it will notify that updates are available.
+• Automatic security updates are not enabled by default. Just it will notify that updates are available.
 
 ## 📁 3. Log Monitoring
 Audit results and security logs are saved locally.
+
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
