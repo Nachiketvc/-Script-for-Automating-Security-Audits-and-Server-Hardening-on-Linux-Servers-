@@ -41,7 +41,7 @@ Clone the repository and run the script with elevated privileges:
 git clone https://github.com/Nachiketvc/-Script-for-Automating-Security-Audits-and-Server-Hardening-on-Linux-Servers-.git
 
 ## Step 2: Navigate into the project directory
-cd security-audit-hardening-script
+cd security_audit_hardening.sh
  
 ## Step 3: Make the script executable
 chmod +x security_audit_hardening.sh
@@ -62,18 +62,24 @@ chmod +x security_audit_hardening.sh
 • Automatic security updates are not enabled by default. Just it will notify that updates are available.
 
 ## 📁 3. Log Monitoring
-Audit results and security logs are saved locally.
+• Audit results and security logs are saved locally.
 
 ## 📁 4. Reporting and Alerting
 • Here I have added root mail address. you can add your personal mail id too. 
 
-## How to check mail.
+## 5. How to check mail.
 
 • Login as a root user. (sudo su - )
+
 • Make sure you have installed mail service. 
+
 • use command - mail (you will get mail if there is any warning)
 
+## 6. For Custom security checks.
 
+• For custom security checks, make sure to create the file in the same directory where your main script is located.
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 7. Few Snapshots
