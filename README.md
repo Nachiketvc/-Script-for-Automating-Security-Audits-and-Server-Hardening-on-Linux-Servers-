@@ -69,9 +69,9 @@ Audit results and security logs are saved locally.
 
 ## How to check mail.
 
-Login as a root user. (sudo su - )
-Make sure you have installed mail service. 
-use command - mail (you will get mail if there is any warning)
+• Login as a root user. (sudo su - )
+• Make sure you have installed mail service. 
+• use command - mail (you will get mail if there is any warning)
 
 
 
