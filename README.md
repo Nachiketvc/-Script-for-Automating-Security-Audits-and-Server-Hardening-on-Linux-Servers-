@@ -47,8 +47,8 @@ cd security-audit-hardening-script
 ## Step 3: Make the script executable
 chmod +x security_audit_hardening.sh
 
-## Step 4: Run the script with sudo
-sudo ./security_audit_hardening.sh
+## Step 4: Run the script
+./security_audit_hardening.sh
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
