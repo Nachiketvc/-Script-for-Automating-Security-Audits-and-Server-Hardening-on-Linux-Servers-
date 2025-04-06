@@ -15,7 +15,6 @@ A **modular and reusable Bash script** to automate **security auditing and harde
 - 🩹 **Security Updates & Patching Checks**  
 - 📜 **Log Monitoring for Suspicious Activity**  
 - 🔒 **SSH Configuration Hardening**  
-- 🚫 **IPv6 Disabling** (if unnecessary)  
 - 🧷 **GRUB Bootloader Protection**  
 - ⚙️ **Custom Security Checks** (per org policies)  
 - 📬 **Email Alerts**  
@@ -64,5 +63,17 @@ chmod +x security_audit_hardening.sh
 
 ## 📁 3. Log Monitoring
 Audit results and security logs are saved locally.
+
+## 📁 4. Reporting and Alerting
+• Here I have added root mail address. you can add your personal mail id too. 
+
+## How to check mail.
+
+Login as a root user. (sudo su - )
+Make sure you have installed mail service. 
+use command - mail (you will get mail if there is any warning)
+
+
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
