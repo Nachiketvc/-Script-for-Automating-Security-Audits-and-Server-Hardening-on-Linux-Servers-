@@ -38,7 +38,7 @@ Clone the repository and run the script with elevated privileges:
 
 
 ## Step 1: Clone the repository
-```bash```
+
 git clone https://github.com/Nachiketvc/-Script-for-Automating-Security-Audits-and-Server-Hardening-on-Linux-Servers-.git
 
 ## Step 2: Navigate into the project directory
@@ -64,7 +64,5 @@ sudo ./security_audit_hardening.sh
 
 ## 📁 3. Log Monitoring
 Audit results and security logs are saved locally.
-
-
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
